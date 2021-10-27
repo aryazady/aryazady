@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arya
-- 👀 I’m interested in watching movies and playing video game
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Learning, Researching, Watching movies and Playing video game
+- 🌱 I’m currently learning ML
 - 📫 My email aryazady@gmail.com
 
 <!---
