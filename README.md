@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arya
 - 👀 I’m interested in Learning, Researching, Watching movies and Playing video game
-- 🌱 I’m currently learning ML
+- 🌱 I’m a grad student at SUT
 - 📫 My email aryazady@gmail.com
 
 <!---
